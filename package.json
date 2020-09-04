@@ -18,7 +18,7 @@
     "graphql": "^14.0.2",
     "jsonwebtoken": "^8.3.0",
     "randomstring": "^1.1.5",
-    "sequelize": "^4.44.3",
+    "sequelize": "^5.15.1",
     "sqlite3": "^4.1.0"
   },
   "devDependencies": {
@@ -32,7 +32,7 @@
     "graphql": "^14.0.2",
     "jsonwebtoken": "^8.3.0",
     "randomstring": "^1.1.5",
-    "sequelize": "^4.44.3",
+    "sequelize": "^5.15.1",
     "sqlite3": "^4.1.0"
   }
 }
